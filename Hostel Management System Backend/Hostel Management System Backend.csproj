@@ -18,4 +18,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="10.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hostel-Management-System-Backend.DTO\Hostel-Management-System-Backend.DTO.csproj" />
+    <ProjectReference Include="..\Hostel-Management-System-Backend.Infrastructure\Hostel-Management-System-Backend.Infrastructure.csproj" />
+    <ProjectReference Include="..\Hostel-Management-System-Backend.Services\Hostel-Management-System-Backend.Services.csproj" />
+  </ItemGroup>
+
 </Project>

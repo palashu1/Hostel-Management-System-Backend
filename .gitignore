@@ -1,3 +1,43 @@
+# Visual Studio
 .vs/
-bin/
-obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider / JetBrains
+.idea/
+
+# Test results
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ASP.NET Core local development configuration
+appsettings.Development.json
+
+# User-specific publish profiles
+Properties/PublishProfiles/
+
+# Environment files
+.env
+.env.*
