@@ -24,4 +24,8 @@
     <ProjectReference Include="..\Hostel-Management-System-Backend.Services\Hostel-Management-System-Backend.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Model\" />
+  </ItemGroup>
+
 </Project>

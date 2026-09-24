@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hostel-Management-System-Backend.Infrastructure\Hostel-Management-System-Backend.Infrastructure.csproj" />
+    <ProjectReference Include="..\Hostel-Management-System-Backend.Services\Hostel-Management-System-Backend.Services.csproj" />
+  </ItemGroup>
+
 </Project>

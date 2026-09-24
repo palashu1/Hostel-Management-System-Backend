@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="Hostel Management System Backend/Hostel Management System Backend.csproj" />
+  <Project Path="Hostel-Management-System-Backend.DTO/Hostel-Management-System-Backend.DTO.csproj" Id="359fb340-e24a-4566-ae46-907105eb90d2" />
+  <Project Path="Hostel-Management-System-Backend.Infrastructure/Hostel-Management-System-Backend.Infrastructure.csproj" Id="d22a0cba-596e-4626-8415-98b52664cd26" />
+  <Project Path="Hostel-Management-System-Backend.Services/Hostel-Management-System-Backend.Services.csproj" Id="40ea5351-f646-4f9d-b222-ce0ed884189d" />
 </Solution>
